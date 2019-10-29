@@ -8,8 +8,8 @@
 // TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
 //
 1 VERSIONINFO
-FILEVERSION 1,0,0,2
-PRODUCTVERSION 1,0,0,2
+FILEVERSION 1,1,0,1
+PRODUCTVERSION 1,1,0,1
 FILETYPE VFT_APP
 {
   BLOCK "StringFileInfo"
@@ -17,14 +17,14 @@ FILETYPE VFT_APP
     BLOCK "041004E4"
     {
       VALUE "CompanyName", "Luca Facchini Server"
-      VALUE "FileVersion", "1.0.0.2"
+      VALUE "FileVersion", "1.1.0.1"
       VALUE "FileDescription", "Calcola il giorno della settimana in base alla data"
       VALUE "InternalName", ""
       VALUE "LegalCopyright", ""
       VALUE "LegalTrademarks", ""
       VALUE "OriginalFilename", ""
       VALUE "ProductName", "Giorni della settimana"
-      VALUE "ProductVersion", "1.0.0.2"
+      VALUE "ProductVersion", "1.1.0.1"
     }
   }
   BLOCK "VarFileInfo"

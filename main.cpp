@@ -1,9 +1,13 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main()
 {
+	int ST;
+do {
+	string stop = "yes";
 	int D, M, Y, DI, MI, YI;
 
 	cout << "inserisci il giorno" << endl;
@@ -65,5 +69,14 @@ int main()
 		}
 
 	}
-	system("pause");
+	cout <<"\n\nVuoi eseguire un'altro calcolo?\nYes/no"<< endl;
+	cin >> stop;
+	if (stop == "yes")
+	{
+		ST = 2;
+	}else{
+		ST = 1;
+	}
+}
+while(ST > 1);
 }

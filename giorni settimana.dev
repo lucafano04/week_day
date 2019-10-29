@@ -28,25 +28,25 @@ Folders=
 IncludeVersionInfo=1
 SupportXPThemes=0
 CompilerSet=0
-CompilerSettings=0000000000000000000000000
+CompilerSettings=0000000000000000001000000
 UnitCount=1
 
 [VersionInfo]
 Major=1
-Minor=0
+Minor=1
 Release=0
-Build=2
+Build=1
 LanguageID=1040
 CharsetID=1252
 CompanyName=Luca Facchini Server
-FileVersion=1.0.0.2
+FileVersion=1.1.0.1
 FileDescription=Calcola il giorno della settimana in base alla data
 InternalName=
 LegalCopyright=
 LegalTrademarks=
 OriginalFilename=
 ProductName=Giorni della settimana
-ProductVersion=1.0.0.2
+ProductVersion=1.1.0.1
 AutoIncBuildNr=1
 SyncProduct=1
 
